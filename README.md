@@ -40,7 +40,7 @@ Google Workspace, Excel/Sheets, WordPress, HTML/CSS (basic), Canva, ClickUp, Sla
 
 - [Samples ①](https://docs.google.com/spreadsheets/d/1BrP4u3vI0b6H6Pai8aYFFUwiowAIB4vJAf30oU16rQo/edit?usp=sharing)
 - [Samples ②](https://docs.google.com/spreadsheets/d/1RcSHfmgC4mia-twsOxxqm8cZLjT1cR1Ky4iPCIxv9YI/edit?usp=sharing)
-
+- [Samples HTML/CSS](https://github.com/UASvetlanaT/Uber)
 ---
 
 <!-- VERSIÓN EN ESPAÑOL -->
@@ -78,9 +78,11 @@ Google Workspace, Excel/Sheets, WordPress, HTML/CSS (básico), Canva, ClickUp, S
 ## Formación & certificados
 - EOI Motril — Español B1 (2023–2025); Inglés B1 (2024– )
 - Santander Open Academy — Power BI (2024)
-- Femxa — Contabilidad (2024) · Universidad Nacional de Dnipró — Cibernética Económica; SI en Gestión
+- Femxa — Contabilidad (2024)
+- Universidad Nacional de Dnipró — Cibernética Económica; SI en Gestión
 
 ## Portafolio
 
 - [Muestras ①](https://docs.google.com/spreadsheets/d/1BrP4u3vI0b6H6Pai8aYFFUwiowAIB4vJAf30oU16rQo/edit?usp=sharing)
 - [Muestras ②](https://docs.google.com/spreadsheets/d/1RcSHfmgC4mia-twsOxxqm8cZLjT1cR1Ky4iPCIxv9YI/edit?usp=sharing)
+- [Muestras HTML/CSS](https://github.com/UASvetlanaT/Uber)
